@@ -1,4 +1,4 @@
-
+Word	Emotion	Score
 aback	anger	0
 aback	anticipation	0
 aback	disgust	0
